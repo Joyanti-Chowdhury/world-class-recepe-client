@@ -1,0 +1,113 @@
+[
+    { 
+     "id":"1",
+      "recipeName": "Spaghetti Carbonara",
+      "recipeImage": "https://i.ibb.co/ydpQ9rV/recipes1.jpg",
+      "purchasedBy": "John Doe",
+      "recipeDetails": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3AAdKl1UYZs\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "Italian",
+      "creatorEmail": "johndoe@example.com",
+      "country": "Italy"
+    },
+    { 
+      "id":"2",
+      "recipeName": "Chicken Tikka Masala",
+      "recipeImage": "https://i.ibb.co/869rL9v/recipes3.jpg",
+      "purchasedBy": "Jane Smith",
+      "recipeDetails": "A popular Indian dish made with marinated chicken pieces cooked in a creamy tomato sauce.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Md1UplrLoGA\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "Indian",
+      "creatorEmail": "janesmith@example.com",
+      "country": "India"
+    },
+    { 
+      "id":"3",
+      "recipeName": "Sushi",
+      "recipeImage": "https://i.ibb.co/RhCP5kf/recipes2.jpg",
+      "purchasedBy": "Akira Tanaka",
+      "recipeDetails": "A traditional Japanese dish made with vinegared rice, seafood, and vegetables.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ISJRXV1mdY4\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "Japanese",
+      "creatorEmail": "akira@example.com",
+      "country": "Japan"
+    },
+    { 
+      "id":"4",
+      "recipeName": "Tacos",
+      "recipeImage": "https://i.ibb.co/HTN5RT8/recipes5.jpg",
+      "purchasedBy": "Carlos Mendez",
+      "recipeDetails": "A traditional Mexican dish consisting of a folded or rolled tortilla filled with various mixtures.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DQ6uXZvxjpo\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "Mexican",
+      "creatorEmail": "carlos@example.com",
+      "country": "Mexico"
+    },
+    { 
+      "id":"5",
+      "recipeName": "Pad Thai",
+      "recipeImage": "https://i.ibb.co/48SmnHW/recipes4.jpg",
+      "purchasedBy": "Somchai Prasert",
+      "recipeDetails": "A stir-fried rice noodle dish commonly served as street food in Thailand.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/eeJfnrE5N10\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "Thai",
+      "creatorEmail": "somchai@example.com",
+      "country": "Thailand"
+    },
+    { 
+      "id":"6",
+      "recipeName": "Croissant",
+      "recipeImage": "https://i.ibb.co/T2QsbTJ/recipes8.jpg",
+      "purchasedBy": "Marie Dupont",
+      "recipeDetails": "A buttery, flaky, and crescent-shaped pastry originating from France.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/d9d9qnsse_o\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "French",
+      "creatorEmail": "marie@example.com",
+      "country": "France"
+    },
+    {
+      "id":"7",
+      "recipeName": "Kimchi",
+      "recipeImage": "https://i.ibb.co/jzQCMhP/recipes6.jpg",
+      "purchasedBy": "Ji-hoon Park",
+      "recipeDetails": "A traditional Korean side dish made from fermented vegetables, primarily napa cabbage and Korean radishes.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/L1EP4RD1HSY\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "Korean",
+      "creatorEmail": "jihoon@example.com",
+      "country": "South Korea"
+    },
+    {
+      "id":"8",
+      "recipeName": "Poutine",
+      "recipeImage": "https://i.ibb.co/1XcMK98/recipes7.jpg",
+      "purchasedBy": "Alex Tremblay",
+      "recipeDetails": "A Canadian dish consisting of fries topped with cheese curds and gravy.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sTIK8tUqKQg\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "Canadian",
+      "creatorEmail": "alex@example.com",
+      "country": "Canada"
+    },
+    { 
+      "id":"9",
+      "recipeName": "Paella",
+      "recipeImage": "https://i.ibb.co/JF2xGhF/recipes12.jpg",
+      "purchasedBy": "Sofia Garcia",
+      "recipeDetails": "A Spanish rice dish originally from Valencia, made with various ingredients such as seafood, chicken, and vegetables.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_X8InYYaNAw\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "Spanish",
+      "creatorEmail": "sofia@example.com",
+      "country": "Spain"
+    },
+    {
+      "id":"10",
+      "recipeName": "Falafel",
+      "recipeImage": "https://i.ibb.co/jDj7tzq/recipes11.jpg",
+      "purchasedBy": "Ahmed Hassan",
+      "recipeDetails": "A deep-fried ball or patty made from ground chickpeas, fava beans, or both, commonly served in Middle Eastern cuisine.",
+      "embeddedYoutubeVideoCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QHzwjD9pVAR\" frameborder=\"0\" allowfullscreen></iframe>",
+      "category": "Middle Eastern",
+      "creatorEmail": "ahmed@example.com",
+      "country": "Egypt"
+    }
+  ]
+  
